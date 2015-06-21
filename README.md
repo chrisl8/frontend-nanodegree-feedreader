@@ -1,3 +1,7 @@
+# This project has been completed.
+All tests are in feedreader.js
+To run them just open up index.html on your computer to run the tests in your default browser.
+
 # Project Overview
 
 In this project you are given a web-based application that reads RSS feeds. The original developer of this application clearly saw the value in testing, they've already included [Jasmine](http://jasmine.github.io/) and even started writing their first test suite! Unfortunately, they decided to move on to start their own company and we're now left with an application with an incomplete test suite. That's where you come in.
